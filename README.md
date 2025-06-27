@@ -23,29 +23,11 @@ A responsive multi-step registration form built with **React** and **Material UI
 
 ---
 
-## 📁 Project Structure
-
-```
-src/
-│
-├── components/
-│   └── StepOne.jsx
-│   └── StepTwo.jsx
-│
-├── pages/
-│   └── Register.jsx
-│
-├── App.js
-└── index.js
-```
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone [https://github.com/yourusername/your-repo.git](https://github.com/Umayange1998/Multi-step-registration-form.git)]
    cd your-repo
    ```
 
