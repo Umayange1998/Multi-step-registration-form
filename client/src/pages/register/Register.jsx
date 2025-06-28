@@ -144,7 +144,7 @@ function Register() {
     setConfirmPasswordError("");
 
     try {
-    //   await Axios.post(`${process.env.REACT_APP_API_BASE_URL}/user`, {
+    //   await Axios.post(`${process.env.REACT_APP_API_BASE_URL}/register`, {
     //     email: email,
     //     fullName: fullName,
     //     phone: phone,
